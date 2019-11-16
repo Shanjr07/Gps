@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="false">
+  <test name="Login_TestCase">
+    <classes>
+      <class name="com.eit.stepdefinition.stepDefinition">
+   <!-- <methods>
+      
+     <include name ="English_ForgetPassword_without_Corporate_ID"/>
+     <include name ="Arabic_ForgetPassword_without_Corporate_ID"/>
+     <include name ="English_ForgetPassword_without_User_name"/>
+     <include name ="Arabic_ForgetPassword_without_User_name"/>
+     
+       
+     <include name ="English_ForgetPassword_with_incorrect_Corporate_ID"/>
+     <include name ="Arabic_ForgetPassword_with_incorrect_Corporate_ID"/>
+     <include name ="English_ForgetPassword_with_incorrect_User_name"/>
+     <include name ="English_forgetpassword_with_incorrect_password_and_valid_password"/>
+     <include name ="Arabic_forgetpassword_with_incorrect_password_and_valid_password"/>
+     
+
+    
+    
+    </methods>--></class>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

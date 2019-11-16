@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="169566" started-at="2019-11-15T13:21:35Z" finished-at="2019-11-15T13:24:25Z">
+    <groups>
+    </groups>
+    <test name="Login_TestCase" duration-ms="169566" started-at="2019-11-15T13:21:35Z" finished-at="2019-11-15T13:24:25Z">
+      <class name="com.eit.stepdefinition.stepDefinition">
+        <test-method status="PASS" signature="browse()[pri:0, instance:com.eit.stepdefinition.stepDefinition@5a39699c]" name="browse" is-config="true" duration-ms="18156" started-at="2019-11-15T18:51:35Z" finished-at="2019-11-15T18:51:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse -->
+        <test-method status="PASS" signature="English_forgetpassword_with_incorrect_password_and_valid_password()[pri:27, instance:com.eit.stepdefinition.stepDefinition@5a39699c]" name="English_forgetpassword_with_incorrect_password_and_valid_password" duration-ms="68133" started-at="2019-11-15T18:51:53Z" finished-at="2019-11-15T18:53:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- English_forgetpassword_with_incorrect_password_and_valid_password -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.eit.stepdefinition.stepDefinition@5a39699c]" name="close" is-config="true" duration-ms="282" started-at="2019-11-15T18:53:01Z" finished-at="2019-11-15T18:53:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+        <test-method status="PASS" signature="browse()[pri:0, instance:com.eit.stepdefinition.stepDefinition@5a39699c]" name="browse" is-config="true" duration-ms="18046" started-at="2019-11-15T18:53:02Z" finished-at="2019-11-15T18:53:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browse -->
+        <test-method status="PASS" signature="Arabic_forgetpassword_with_incorrect_password_and_valid_password()[pri:28, instance:com.eit.stepdefinition.stepDefinition@5a39699c]" name="Arabic_forgetpassword_with_incorrect_password_and_valid_password" duration-ms="64669" started-at="2019-11-15T18:53:20Z" finished-at="2019-11-15T18:54:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Arabic_forgetpassword_with_incorrect_password_and_valid_password -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.eit.stepdefinition.stepDefinition@5a39699c]" name="close" is-config="true" duration-ms="243" started-at="2019-11-15T18:54:24Z" finished-at="2019-11-15T18:54:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.eit.stepdefinition.stepDefinition -->
+    </test> <!-- Login_TestCase -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Login_TestCase">
+    <classes>
+      <class name="com.eit.stepdefinition.stepDefinition">
+        <methods>
+          <include name="English_forgetpassword_with_incorrect_password_and_valid_password"/>
+          <include name="Arabic_forgetpassword_with_incorrect_password_and_valid_password"/>
+        </methods>
+      </class> <!-- com.eit.stepdefinition.stepDefinition -->
+    </classes>
+  </test> <!-- Login_TestCase -->
+</suite> <!-- Failed suite [Suite] -->
